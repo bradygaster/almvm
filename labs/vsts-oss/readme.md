@@ -29,7 +29,7 @@ With  and CVSTS, you have choices. Choices that help you maximize your existing 
     </div>
 
     <div class="vsts-lab-item col-md-4" align="center">
-         <span class="headnews"> <b><a href="labs/vsts" class="labmain">How to deploy to Tomcat</a></b></span><br />
+         <span class="headnews"> <b><a href="tomcat" class="labmain">How to deploy to Tomcat</a></b></span><br />
         <a href="labs/vsts"><img style="margin: 10px;" src="images/tomcat.png"/></a><br />
     </div>
     
@@ -39,7 +39,7 @@ With  and CVSTS, you have choices. Choices that help you maximize your existing 
     </div>
     
     <div class="vsts-lab-item col-md-4" align="center">
-         <span class="headnews"> <b><a href="labs/vsts-oss" class="labmain"> Using Octopus Deploy</a></b></span><br />
+         <span class="headnews"> <b><a href="octopus" class="labmain"> Using Octopus Deploy</a></b></span><br />
         <a href="labs/java"><img style="margin: 10px;" src="images/Octopus.png"/></a><br />
     </div>
 
